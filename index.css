@@ -86,8 +86,12 @@ body {
   margin: 0;
 }
 
-.projects-list li {
+.projects-list p {
   margin-bottom: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
 }
 
 .project-link {
@@ -124,4 +128,5 @@ body {
   color: #666;
   text-align: center;
 }
+
 
