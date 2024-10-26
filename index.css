@@ -43,6 +43,7 @@ body {
 }
 
 #nav-list a {
+  font-family: 'Lato', sans-serif;
   color: #fff;
   text-decoration: none;
 }
@@ -123,3 +124,4 @@ body {
   color: #666;
   text-align: center;
 }
+
